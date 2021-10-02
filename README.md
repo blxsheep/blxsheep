@@ -1,10 +1,6 @@
-### Hi there 👋
-
-
-
-
-
- " Every one can access data but only few can take benefit from them . " 
+### " Every one can access data but only few can take benefit from them . " 
+ 
+ #### Ladies & Gentlemen, Here's who I am & my interests 👋
  
 - Curious guy & Opportunity Seeker .
 - Currently learning data science and looking for data scientist internship . 
@@ -15,9 +11,17 @@
 
 
 
+
+
+
+
+
+
  📫 Email : c.voranipit@gmail.com
  
  📫 LinkedIn : https://www.linkedin.com/in/voranipit-chaipinitnorachart-a620a81a5/
+ 
+ 
  
 
   
@@ -44,3 +48,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blxsheep&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Hope enjoy exploring my repo 😃
