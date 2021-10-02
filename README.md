@@ -7,7 +7,7 @@
  " Every one can access data but only few can take benefit from them . " 
  
 
-- I'm currently learning data science and looking for data science internship . 
+- I'm currently learning data science and looking for data scientist internship . 
 - Passion in business analytic .
 - Interested in ML & AI .
 
