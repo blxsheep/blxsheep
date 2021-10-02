@@ -7,7 +7,7 @@
 - Passion in business analytic .
 - Passion in ML & DL .
 - Interested in (some parts) financial system .
-
+- Hobby : Basketball / Bike / Car
 
 
 
