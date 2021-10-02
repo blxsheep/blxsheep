@@ -6,7 +6,7 @@
 
  " Every one can access data but only few can take benefit from them . " 
  
-- Curious guy & Opputunity Seeker .
+- Curious guy & Opportunity Seeker .
 - currently learning data science and looking for data scientist internship . 
 - Passion about business analytic .
 - Interested in ML & AI .
