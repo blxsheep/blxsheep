@@ -1,10 +1,21 @@
 ### Hi there 👋
 
-- I'm currently learning data science  and looking for data science internship.
+
+ " Every one can access data but only few can take benefit from them. " 
+ 
+
+- I'm currently learning data science and looking for data science internship. 
 - Passion in business analytic .
+- Interested in ML & AI.
 
 
-  " Every one can access data but only few can take benefit from them. " 
+
+ 📫 Email : c.voranipit@gmail.com
+ 📫 LinkedIn : https://www.linkedin.com/in/voranipit-chaipinitnorachart-a620a81a5/
+ 
+
+  
+  
   
   
   
