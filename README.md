@@ -7,7 +7,7 @@
 - Passion in business analytic .
 - Passion in ML & DL .
 - Interested in (some parts) financial system .
-- personal interests : Basketball / Bike / Car
+- personal interests : Basketball / Big Bike / Car .
 
 
 
