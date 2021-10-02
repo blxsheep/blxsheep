@@ -3,7 +3,7 @@
  #### Ladies & Gentlemen, Here's who I am & my interests 👋
  
 - Curious guy & Opportunity Seeker (pragmatic ones) .
-- Currently learning data science and looking for data scientist internship . 
+- Currently learning data science & looking for data scientist internship . 
 - Passion in business analytic .
 - Passion in ML & AI .
 - Interested in (some parts) financial system .
