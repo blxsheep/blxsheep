@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blxsheep&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Hope enjoy exploring my repo 😃
+#### Hope you enjoy exploring my repo 😃
