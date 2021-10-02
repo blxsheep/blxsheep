@@ -8,8 +8,8 @@
  
 - Curious guy & Opportunity Seeker .
 - currently learning data science and looking for data scientist internship . 
-- Passion about business analytic .
-- Interested in ML & AI .
+- Passion in business analytic .
+- Passion in ML & AI .
 - Interested in (some parts) financial system .
 
 
