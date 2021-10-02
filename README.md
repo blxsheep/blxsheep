@@ -1,6 +1,6 @@
 ### " Every one can access data but only few can take benefit from them . " 
  
- #### Ladies & Gentlemen, Here's who I am & my interests 👋
+ #### Hi Ladies & Gentlemen 👋 Here's who I am & my interests 👇
  
 - Curious guy & Opportunity Seeker (pragmatic ones) .
 - Currently learning data science & looking for data scientist internship . 
