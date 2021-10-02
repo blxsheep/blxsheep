@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+- I'm currently learning data science and looking for data science internship.
+- Passion in business analytic .
 
+
+  " Every one can access data but only few can take benefit from them. " 
 
 <!--
 **blxsheep/blxsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
