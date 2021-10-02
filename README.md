@@ -10,6 +10,8 @@
 - I'm currently learning data science and looking for data scientist internship . 
 - Passion in business analytic .
 - Interested in ML & AI .
+- Interested in (some parts) financial system .
+
 
 
 
