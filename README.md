@@ -4,10 +4,8 @@
  
 - Curious guy & Opportunity Seeker (pragmatic ones) .
 - Currently learning data science & looking for data scientist internship . 
-- Passion in business analytic .
-- Passion in ML & DL .
-- Interested in (some parts) financial system .
-- personal interests : Basketball / Big Bike / Car .
+- Passionate in ML & DL
+- Interested in business analytic & financial system (some parts) .
 
 
 
