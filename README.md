@@ -4,7 +4,7 @@
  
 - Curious guy & Opportunity Seeker (pragmatic ones) .
 - Currently learning data science & looking for data scientist internship . 
-- Passionate in ML & DL
+- Currently in ML & DL
 - Interested in business analytic & financial system (some parts) .
 
 
