@@ -5,7 +5,7 @@
 - Curious guy & Opportunity Seeker (pragmatic ones) .
 - Currently learning data science & looking for data scientist internship . 
 - Currently learning  ML & DL .
-- Interested in business analytic & financial system (some parts) .
+- Interested in business  & financial system (some parts) .
 
 
 
